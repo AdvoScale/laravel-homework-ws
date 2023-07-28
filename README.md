@@ -81,9 +81,9 @@ The list of tasks contains both completed and uncompleted tasks now. But it woul
 
 Have a look on who to pass data do blade components and how to query/filter [eloquent models](https://laravel.com/docs/10.x/eloquent).
 
-### Bonus Task: Implement a Task Priority
+### One More Task: Implement a Task Priority
 
-_This task is optional and created for people who are already familiar with Laravel. If you are not familiar with Laravel, you can skip this task._
+_This task is optional and created for people who are already familiar with Laravel or who want to show off their skills._
 
 The list of tasks should be sorted by priority. The priority of a task can be either `low`, `medium` or `high`. You are free to decide how to implement this feature and how to display the priority in the list of tasks.
 
